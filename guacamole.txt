@@ -9,4 +9,3 @@ Celery
 Cumin
 Fresh cilantro
 Pepper
-Chili for Jo
